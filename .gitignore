@@ -1,0 +1,8 @@
+storage/*.log
+.env
+.DS_Store
+*.swp
+.idea/
+.vscode/
+public/imagens/*
+!public/imagens/.gitkeep
